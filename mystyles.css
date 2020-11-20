@@ -1,0 +1,17 @@
+
+
+.page-Heading{
+    font: bold;
+    color :red;
+text-align: center}
+    body{background: rgb(231, 232, 238)}
+    .container{
+        margin-left: 24px;
+        margin-right: 24px}
+        .text-field{
+            border: 2px gray solid;
+            border-radius :5px}
+            .button{
+                float: right
+            }
+        
